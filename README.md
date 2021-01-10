@@ -1,6 +1,25 @@
-# fetchdataapi
 
-A new Flutter project.
+# Random user 
+This is a sample  Flutter application which generates random users after fetching them through an random user API. This app is built using MVP architecture.
+
+## Technologies Used
+- <a href="https://randomuser.me/api/">Random user api</a>
+
+
+## Screenshots
+
+<img src="screenshots/img.jpg" height="400">
+
+## How to run this
+Running this is as simple as it gets. Follow this steps
+
+- Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+- Navigate to the project folder where you have cloned this repo.
+- Open an emulator or plug in a real device
+- Type the following command in the terminal
+
+       flutter run
+
 
 ## Getting Started
 
